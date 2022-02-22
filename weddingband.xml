@@ -1,0 +1,129 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type = "text/css" href = "style.css" ?>
+
+<SongList>
+    <heading>Silver Arrow Band</heading>
+    <Song>
+        
+        <Artist>Bruno Mars</Artist>
+        <Title>24K Magic</Title>
+        <Genre>
+            <First>Contemporary,</First>
+            <Second>Funk</Second> 
+        </Genre>
+        <Year>2016</Year>
+        
+    </Song> 
+    
+    <Song>
+        
+        <Artist>Journey</Artist>
+        <Title>Anyway You Want It</Title>
+        <Genre>
+            <First>Rock,</First>
+            <Second>Alternative</Second> 
+        </Genre>
+        <Year>1980</Year>
+        
+    </Song> 
+    
+    <Song>
+        
+        <Artist>Spice Girls</Artist>
+        <Title>Wannabe</Title>
+        <Genre>
+            <First>Pop,</First>
+            <Second>Dance</Second> 
+        </Genre>
+        <Year>1996</Year>
+        
+    </Song> 
+    
+    <Song>
+        
+        <Artist>Christina Perri</Artist>
+        <Title>A Thousand Years</Title>
+        <Genre>
+            <First>Traditional,</First>
+            <Second>Pop</Second> 
+        </Genre>
+        <Year>2011</Year>
+        
+    </Song> 
+    
+    <Song>
+        
+        <Artist>The Beatles</Artist>
+        <Title>Here Comes the Sun</Title>
+        <Genre>
+            <First>Rock,</First>
+            <Second>Traditional</Second> 
+        </Genre>
+        <Year>1969</Year>
+        
+    </Song> 
+    
+    <Song>
+        
+        <Artist>Stevie Wonder</Artist>
+        <Title>Signed Sealed Delivered</Title>
+        <Genre>
+            <First>Soul,</First>
+            <Second>R'n'B</Second> 
+        </Genre>
+        <Year>1970</Year>
+        
+    </Song> 
+    
+    <Song>
+        
+        <Artist>James Brown</Artist>
+        <Title>I Feel Good</Title>
+        <Genre>
+            <First>Funk,</First>
+            <Second>Soul</Second> 
+        </Genre>
+        <Year>1965</Year>
+        
+    </Song> 
+    
+    <Song>
+        
+        <Artist>Daft Punk</Artist>
+        <Title>Get Lucky</Title>
+        <Genre>
+            <First>Pop,</First>
+            <Second>Contemporary</Second> 
+        </Genre>
+        <Year>2013</Year>
+        
+    </Song> 
+    
+    
+    <Song>
+        
+        <Artist>Beyonce</Artist>
+        <Title>Love on Top</Title>
+        <Genre>
+            <First>R'n'B,</First>
+            <Second>Contemporary</Second> 
+        </Genre>
+        <Year>2011</Year>
+        
+    </Song> 
+    
+    
+    <Song>
+        
+        <Artist>Avicii</Artist>
+        <Title>Wake Me Up</Title>
+        <Genre>
+            <First>Electronic Dance,</First>
+            <Second>Contemporary</Second> 
+        </Genre>
+        <Year>2013</Year>
+        
+    </Song> 
+    
+    
+</SongList> 
