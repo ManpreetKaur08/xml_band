@@ -1,0 +1,34 @@
+Song {display: block; font-size: 25px;}
+Song:after {content: "============";}
+
+Artist {display: block;}
+Artist:before{content: "Artist: ";}
+
+Title {display: block;}
+Title:before{content: "Title: ";}
+
+Genre {display: block;}
+Genre:before{content: "Genre: ";}
+
+
+Year {display: block;}
+Year:before{content: "Year: ";}
+
+
+SongList {
+    
+    background-color: #AEC6CF;
+    color: #023020;
+    font-family: Verdana, sans-serif;
+    width: 100%; 
+    text-align: center; 
+}
+
+heading {
+    color: #1E7C6C;
+    font-size : 60px;
+    background-color : #B6D0E2;
+    width: 100%; 
+    font-family: Georgia, sans-serif; 
+}
+
